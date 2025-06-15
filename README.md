@@ -8,9 +8,10 @@
 
 適宜開示情報を一定時間ごとに取得し分析して、該当銘柄及び保有株を自動売買しポートフォリオを管理する。
 
-### buy_main.py      監視買い注文
-### sell_main.py     監視売り注文
+### buy_main.py      買い注文
+### sell_main.py     売り注文
 ### losscut.py       損切注文
 ### cancel_orders.py 注文取消
 
 ### proto_llm_analyze.py LLM自動取引に向けた試作コード
+
